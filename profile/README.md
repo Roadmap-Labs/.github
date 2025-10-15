@@ -62,8 +62,6 @@
 
 ## Development Guidelines
 
-팀 내부 개발 가이드라인:
-
 - 📝 [Commit Convention](COMMIT_CONVENTION.md) - 커밋 메시지 작성 규칙
 
 ## Contact
