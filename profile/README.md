@@ -60,6 +60,12 @@
 - 🎯 **성과 중심**: 비즈니스 가치 창출에 집중
 - 🌱 **성장**: 개발자 성장을 위한 교육과 지원
 
+## Development Guidelines
+
+팀 내부 개발 가이드라인:
+
+- 📝 [Commit Convention](COMMIT_CONVENTION.md) - 커밋 메시지 작성 규칙
+
 ## Contact
 
 문의사항이나 협업 제안이 있으신가요?
